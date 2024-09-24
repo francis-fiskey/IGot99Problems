@@ -1,5 +1,9 @@
 public class App {
+
+
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World, Me Llamo Francis!");
+        // happy path
+        ID newId = new ID(21, "1972-07-25");
+
     }
 }
